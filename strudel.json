@@ -1,4 +1,5 @@
 {
+  "_base":"https://raw.githubusercontent.com/BryceStevenWilley/bryce.avx.samples/main/",
   "pikminjoy": [
     "sfx-sounds/pikmin/Attack.wav",
     "sfx-sounds/pikmin/Carrying.wav",
