@@ -1,0 +1,26 @@
+{
+  "pikminjoy": [
+    "sfx-sounds/pikmin/Attack.wav",
+    "sfx-sounds/pikmin/Carrying.wav",
+    "sfx-sounds/pikmin/Entering Idle.wav",
+    "sfx-sounds/pikmin/Get Up 1.wav",
+    "sfx-sounds/pikmin/Get Up 2.wav",
+    "sfx-sounds/pikmin/Grab Item.wav",
+    "sfx-sounds/pikmin/Greeting 1.wav",
+    "sfx-sounds/pikmin/Greeting 2.wav",
+    "sfx-sounds/pikmin/Greeting 3.wav",
+    "sfx-sounds/pikmin/Greeting 4.wav",
+    "sfx-sounds/pikmin/Greeting 5.wav",
+    "sfx-sounds/pikmin/Greeting 6.wav",
+    "sfx-sounds/pikmin/Greeting 7.wav",
+    "sfx-sounds/pikmin/Greeting 8.wav",
+    "sfx-sounds/pikmin/Greeting 9.wav",
+    "sfx-sounds/pikmin/Idle Pikmin Finding Item.wav",
+    "sfx-sounds/pikmin/Joining Squad.wav",
+    "sfx-sounds/pikmin/Land.wav",
+    "sfx-sounds/pikmin/Ready to be Thrown.wav",
+    "sfx-sounds/pikmin/Thrown.wav"
+  ],
+  "ssxtour": [],
+  "anritimeless": []
+}
