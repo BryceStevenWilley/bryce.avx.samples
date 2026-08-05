@@ -1,12 +1,10 @@
 {
   "_base":"https://raw.githubusercontent.com/BryceStevenWilley/bryce.avx.samples/refs/heads/main/",
-  "pikminjoy": [
+  "pikmin": [
     "sfx-sounds/pikmin/Attack.wav",
-    "sfx-sounds/pikmin/Carrying.wav",
     "sfx-sounds/pikmin/Entering Idle.wav",
     "sfx-sounds/pikmin/Get Up 1.wav",
     "sfx-sounds/pikmin/Get Up 2.wav",
-    "sfx-sounds/pikmin/Grab Item.wav",
     "sfx-sounds/pikmin/Greeting 1.wav",
     "sfx-sounds/pikmin/Greeting 2.wav",
     "sfx-sounds/pikmin/Greeting 3.wav",
@@ -16,12 +14,45 @@
     "sfx-sounds/pikmin/Greeting 7.wav",
     "sfx-sounds/pikmin/Greeting 8.wav",
     "sfx-sounds/pikmin/Greeting 9.wav",
+    "sfx-sounds/pikmin/Grab Item.wav",
     "sfx-sounds/pikmin/Idle Pikmin Finding Item.wav",
     "sfx-sounds/pikmin/Joining Squad.wav",
     "sfx-sounds/pikmin/Land.wav",
     "sfx-sounds/pikmin/Ready to be Thrown.wav",
+    "sfx-sounds/pikmin/Carrying.wav",
     "sfx-sounds/pikmin/Thrown.wav"
   ],
-  "ssxtour": [],
-  "anritimeless": []
+  "ssxtour": [
+    "sfx-sounds/ssxontour/Course Elements (13).flac",
+    "sfx-sounds/ssxontour/Course Elements (3).flac",
+    "sfx-sounds/ssxontour/Course Elements (11).flac",
+    "sfx-sounds/ssxontour/Menu Elements (9).flac",
+    "sfx-sounds/ssxontour/Menu Elements (10).flac",
+    "sfx-sounds/ssxontour/Menu Elements (11).flac",
+    "sfx-sounds/ssxontour/Uber Trick Foley (11).flac",
+    "sfx-sounds/ssxontour/Uber Trick Foley (12).flac",
+    "sfx-sounds/ssxontour/Ski Patrol Sirens (1).flac",
+    "sfx-sounds/ssxontour/Ski Patrol Sirens (2).flac",
+    "sfx-sounds/ssxontour/Ski Patrol Sirens (3).flac",
+    "sfx-sounds/ssxontour/Ski Patrol Sirens (4).flac",
+    "sfx-sounds/ssxontour/Ski Patrol Sirens Stopping (1).flac",
+    "sfx-sounds/ssxontour/Ski Patrol Sirens Stopping (3).flac",
+    "sfx-sounds/ssxontour/Ski Patrol Sirens Stopping (4).flac"
+  ],
+  "anritimeless": [
+    "music/citypop/citypop-0-lonliness-1.mp3",
+    "music/citypop/citypop-1-lonliness-2.mp3",
+    "music/citypop/citypop-2-lonliness-3.mp3",
+    "music/citypop/citypop-3-sad-street-1.mp3",
+    "music/citypop/citypop-4-sad-street-2.mp3",
+    "music/citypop/citypop-5-shyness-boy-1.mp3"
+  ],
+  "mysterytheatre": [
+    "speaking/cbs-mystery-theatre/you-cant-blame-the-computer-really.mp3",
+    "speaking/cbs-mystery-theatre/i-dont-know-anything-about-computers.mp3",
+    "speaking/cbs-mystery-theatre/the-computers-been-fixed.mp3",
+    "speaking/cbs-mystery-theatre/whats-a-computer-got-to-do-with-it.mp3",
+    "speaking/cbs-mystery-theatre/just-at-that-moment.mp3",
+    "speaking/cbs-mystery-theatre/all-sorts-of-things-went-haywire.mp3"
+  ]
 }
