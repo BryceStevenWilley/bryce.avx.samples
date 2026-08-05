@@ -26,6 +26,9 @@ Music
 
 TODO:
 
+* edit ssxontour to be more snappy
+* slight gain normalization on mystery theatre
+
 * [old sermons](https://archive.org/details/HiddenBeauty)
 * conference talks
 * random GBH stuff:
