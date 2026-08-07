@@ -29,6 +29,16 @@ TODO:
 * edit ssxontour to be more snappy
 * slight gain normalization on mystery theatre
 
+The existing notes of these samples (removed for ease of use).
+
+"cs4": "music/citypop/citypop-0-lonliness-1.mp3"
+"fs4": "music/citypop/citypop-1-lonliness-2.mp3"
+"e2": "music/citypop/citypop-2-lonliness-3.mp3"
+"g3": "music/citypop/citypop-3-sad-street-1.mp3"
+"c4": "music/citypop/citypop-4-sad-street-2.mp3"
+"b3": "music/citypop/citypop-5-shyness-boy-1.mp3"
+"d4": "music/disco/Got To Have A Lot More Love.mp3"
+
 * [old sermons](https://archive.org/details/HiddenBeauty)
 * conference talks
 * random GBH stuff:
