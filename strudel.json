@@ -39,6 +39,9 @@
     "sfx-sounds/ssxontour/Ski Patrol Sirens Stopping (3).flac",
     "sfx-sounds/ssxontour/Ski Patrol Sirens Stopping (4).flac"
   ],
+  "wt_fire": [
+    "sfx-sounds/wt_fire/roaring-fire.mp3"
+  ],
   "anritimeless-lonliness": [
     "music/citypop/citypop-0-lonliness-1.mp3",
     "music/citypop/citypop-1-lonliness-2.mp3",
