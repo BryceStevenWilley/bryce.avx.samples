@@ -60,6 +60,18 @@
   "chet": [
     "music/chet/14 Everything Happens to Me.wav.mp3"
   ],
+  "chants": [
+    "music/chants/01 - Philippe Herreweghe Ensemble Vocal Europeen Ensemble Organum - Listen 5th Edition - Disc 1 -Vere dignum.mp3"
+  ],
+  "rock": {
+      "Fs3": "music/rock/05 Inner Cell.mp3"
+  },
+  "rock2": {
+      "Cs4": "music/rock/05 Inner Cell-ego-death.mp3"
+  },
+  "rock3": {
+      "Fs3": "music/rock/05 Inner Cell-end.mp3"
+  },
   "mysterytheatre": [
     "speaking/cbs-mystery-theatre/you-cant-blame-the-computer-really.mp3",
     "speaking/cbs-mystery-theatre/i-dont-know-anything-about-computers.mp3",
